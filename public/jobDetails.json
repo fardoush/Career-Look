@@ -1,0 +1,58 @@
+[
+    {
+    "id": 1,
+    "jobTitle": "Technical Database Engineer",
+    "jobDes": "A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
+    "JobRes":"Job Responsibility: Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
+    "eduReq" : " Bachelor degree to complete any reputational university.",
+    "experience" : "2-3 Years in this field."
+    },
+   
+    {
+        "id": 2,
+        "jobTitle": "Senior Product Designer",
+        "jobDes": "When Should you use context Api?",
+        "JobRes":"Context is primarily used when some data needs to be accessible by many components at different nesting levels. Apply it sparingly because it makes component reuse more difficult. If you only want to avoid passing some props through many levels, component composition is often a simpler solution than context.",
+        "eduReq" : " Bachelor degree to complete any reputational university.",
+        "experience" : "5 Years in this field."
+        },
+        {
+            "id": 3,
+            "jobTitle": "Software Engineer",
+            "jobDes": "When Should you use context Api?",
+            "JobRes":"Context is primarily used when some data needs to be accessible by many components at different nesting levels. Apply it sparingly because it makes component reuse more difficult. If you only want to avoid passing some props through many levels, component composition is often a simpler solution than context.",
+            "eduReq" : " Bachelor degree to complete any reputational university.",
+            "experience" : "2-3 Years in this field."
+            },
+
+            {
+                "id": 4,
+                "jobTitle": "Front End Developer",
+                "jobDes": "When Should you use context Api?",
+                "JobRes":"Context is primarily used when some data needs to be accessible by many components at different nesting levels. Apply it sparingly because it makes component reuse more difficult. If you only want to avoid passing some props through many levels, component composition is often a simpler solution than context.",
+                "eduReq" : " Bachelor degree to complete any reputational university.",
+                "experience" : "3-4 Years in this field."
+                },
+            {
+                "id": 5,
+                "jobTitle": "Technical Database Engineer",
+                "jobDes": "When Should you use context Api?",
+                "JobRes":"Context is primarily used when some data needs to be accessible by many components at different nesting levels. Apply it sparingly because it makes component reuse more difficult. If you only want to avoid passing some props through many levels, component composition is often a simpler solution than context.",
+                "eduReq" : " Bachelor degree to complete any reputational university.",
+                "experience" : "3-4 Years in this field."
+                },
+            {
+                "id": 6,
+                "jobTitle": "Senior UI Engineer",
+                "jobDes": "When Should you use context Api?",
+                "JobRes":"Context is primarily used when some data needs to be accessible by many components at different nesting levels. Apply it sparingly because it makes component reuse more difficult. If you only want to avoid passing some props through many levels, component composition is often a simpler solution than context.",
+                "eduReq" : " Bachelor degree to complete any reputational university.",
+                "experience" : "3-4 Years in this field."
+                }
+
+
+
+    
+   
+]
+ 

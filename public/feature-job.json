@@ -1,0 +1,64 @@
+[
+    {
+    "id": 1,
+    "img": "https://www.vhv.rs/dpng/d/405-4052168_google-logo-png-image-transparent-background-google-png.png",
+    "jobTitle": "Technical Database Engineer",
+    "companyName": "Google LLC",
+    "jobType": "remote",
+    "jobType1": "Full Time",
+    "location": "Dhaka, Bangladesh",
+    "salary": "100K - 150K"
+    },
+    {
+        "id": 2,
+        "img": "https://bi-jingo.com/wp-content/uploads/2009/03/netflix-logo-png-clip-art.png",
+        "jobTitle": "Senior Product Designer",
+        "companyName": "Netflix",
+        "jobType": "Onsite",
+        "jobType1": "Full Time",
+        "location": "Dhaka, Bangladesh",
+        "salary": "100K - 150K"
+        },
+    {
+        "id": 3,
+        "img": "https://www.pngfind.com/pngs/m/24-245028_tesla-logo-tesla-motors-hd-png-download.png",
+        "jobTitle": "Software Engineer",
+        "companyName": "Tesla",
+        "jobType": "Onsite",
+        "jobType1": "Full Time",
+        "location": "Dhaka, Bangladesh",
+        "salary": "100K - 180K"
+        },
+    {
+        "id": 4,
+        "img": "https://brainstation-23.com/wp-content/uploads/2019/02/BS-Logo-Blue_Hr.svg",
+        "jobTitle": "Front End Developer",
+        "companyName": "BrainStation23",
+        "jobType": "Onsite",
+        "jobType1": "Full Time",
+        "location": "Dhaka, Bangladesh",
+        "salary": "100K - 180K"
+        },
+        {
+            "id": 5,
+            "img": "https://www.vhv.rs/dpng/d/405-4052168_google-logo-png-image-transparent-background-google-png.png",
+            "jobTitle": "Technical Database Engineer",
+            "companyName": "Google LLC",
+            "jobType": "remote",
+            "jobType1": "Full Time",
+            "location": "Dhaka, Bangladesh",
+            "salary": "100K - 150K"
+            },
+    {
+        "id": 6,
+        "img": "https://brainstation-23.com/wp-content/uploads/2019/02/BS-Logo-Blue_Hr.svg",
+        "jobTitle": "Senior UI Engineer",
+        "companyName": "BrainStation23",
+        "jobType": "Onsite",
+        "jobType1": "Full Time",
+        "location": "Dhaka, Bangladesh",
+        "salary": "100K - 180K"
+        }
+     
+]
+ 
